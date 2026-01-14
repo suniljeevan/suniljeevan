@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sunil Sahoo
 
 🚀 **Senior Java | Java Full-Stack | Microservices Engineer**  
-💼 Associate Consultant @ Wipro  
+💼 Former Associate Consultant @ Wipro  
 🎓 M.Tech | Java Backend | Cloud-Ready Microservices  
 📍 Bangalore, India
 
