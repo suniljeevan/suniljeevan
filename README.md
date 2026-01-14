@@ -11,11 +11,7 @@
 
 I am an experienced **Java & Java Full-Stack Developer** with strong expertise in **Spring Boot, REST APIs, JPA/Hibernate, and Microservices architecture**.
 
-I enjoy building **scalable, clean, and production-ready backend systems**, and I have hands-on experience in:
-- Designing RESTful APIs
-- Building microservices from scratch
-- Integrating databases and messaging systems
-- Applying DevOps & cloud-native practices
+I enjoy building **scalable, clean, and production-ready backend systems**, and mentoring **students and professionals** in Core & Advanced Java, Full-Stack Development, and Microservices.
 
 I also have a strong interest in **system design, backend architecture, and applied AI in software systems**.
 
@@ -24,29 +20,25 @@ I also have a strong interest in **system design, backend architecture, and appl
 ## 🛠️ Tech Stack
 
 ### 🔹 Backend
-- Java (Core, Advanced)
+- Java (Core & Advanced)
 - Spring Boot, Spring MVC, Spring Security
-- RESTful APIs, SOAP (basic)
+- RESTful APIs, SOAP
 - JPA, Hibernate
 
 ### 🔹 Microservices & Cloud
 - Microservices Architecture
-- API Gateway
-- Service-to-Service Communication
-- Docker, Kubernetes (basic to intermediate)
-- AWS (EC2, S3, DynamoDB – basics)
+- API Gateway, Service-to-Service Communication
+- Docker, Kubernetes
+- AWS (EC2, S3, DynamoDB basics)
 
 ### 🔹 Databases
-- MySQL
-- PostgreSQL
-- MongoDB
+- MySQL, PostgreSQL, MongoDB
 
 ### 🔹 DevOps & Tools
 - Git, GitHub
 - Jenkins (CI/CD)
-- Docker
-- Linux basics
 - Postman, Swagger
+- Linux basics
 
 ### 🔹 Frontend (Full-Stack)
 - HTML, CSS, JavaScript
@@ -55,46 +47,52 @@ I also have a strong interest in **system design, backend architecture, and appl
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Flagship Projects
 
-### 🔹 University Management System (Microservices)
-- Java + Spring Boot
-- REST APIs
-- MongoDB / MySQL
-- Dockerized services
-- CI/CD using Jenkins
+### 🔹 Smart Assessment & Evaluation Platform (Microservices)
+A scalable, secure, and role-based assessment system built using Spring Boot and microservices architecture. Demonstrates **real-world backend design, API security, and analytics**.
 
-### 🔹 Student Management Service
-- Spring Boot CRUD APIs
-- JPA + Hibernate
-- Validation & Exception Handling
-- REST API testing with Postman
+### 🔹 Distributed Order Management System
+An enterprise-style microservices application handling **orders, payments, and inventory** with REST communication and failure handling. Teaches **event-driven design and service orchestration**.
 
-### 🔹 Authentication & Authorization Service
-- JWT-based authentication
-- Role-based authorization
-- Spring Security integration
+### 🔹 Centralized Authentication & Authorization Server
+A production-ready authentication service implementing **JWT, role-based access control**, and **token lifecycle management** for microservices.
 
-*(More projects coming — stay tuned 🚀)*
+### 🔹 Java Concurrency & Performance Lab
+A deep dive into **multithreading, concurrency utilities, and performance optimization**, with real-world threading problems and solutions.
+
+### 🔹 Full-Stack Job Portal Application
+A **full-stack application** demonstrating backend REST APIs, database design, and frontend integration with real business logic.
 
 ---
 
-## 📈 What I Focus On
+## 👨‍🏫 Mentorship & Learning Support
 
-- Writing clean, maintainable Java code
-- Designing scalable backend systems
-- Real-world microservices use cases
-- Industry-oriented development practices
-- Bridging **academics + industry + research**
+I mentor and guide **students, freshers, and working professionals** who want to build **strong fundamentals and industry-ready skills** in Java and Full-Stack Development.
 
----
-
-## 🤝 Let’s Connect
-
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
-- 📧 Email: *(optional)*
-- 💻 GitHub: You're already here 😉
+### 📚 What I Teach
+- **Core Java**: OOPs, Collections, Generics, Exception Handling, Multithreading, Java 8+ features  
+- **Advanced Java**: JDBC, Servlets & JSP, MVC, Exception Handling, Debugging  
+- **Java Full-Stack**: Spring Boot, REST APIs, JPA/Hibernate, Microservices, JWT Security, Git & CI/CD  
+- **Project-Based Learning**: Real-world projects & coding exercises
 
 ---
 
-⭐ **If you like my work, feel free to star the repositories!**
+## 📞 Contact for Guidance & Learning
+📲 **WhatsApp:** +91 9108358351  
+📞 **Call:** +91 8904335134  
+
+> Feel free to message with your **background, current level, and learning goal**.
+
+---
+
+## 🌱 Teaching Philosophy
+I strongly believe in:  
+- Hands-on coding  
+- Industry-aligned learning  
+- Project-based mentoring  
+- Concept → Code → Use-case → Interview flow
+
+---
+
+⭐ **If you like my work, feel free to star my repositories!**
